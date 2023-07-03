@@ -1,4 +1,4 @@
-# Poverty-Mapping-using-Deep-Reinforcement
+# Poverty-Mapping-using-Deep-Reinforcement[ISRO]
 >I worked on
 Poverty Mapping using Geospatial data of India and used machine-learning techniques like
 convolutional neural networks & visual geometry group algorithms to the Indian dataset
